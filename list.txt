@@ -1,0 +1,9 @@
+art/cadrant -> Affichage
+art/histogramme -> Main
+art/cadrant -> Art
+calculette -> Calculette
+chess -> Main
+connection -> Connection
+registration -> TD2
+scribble -> Affichage
+shootme -> CliquePanel
